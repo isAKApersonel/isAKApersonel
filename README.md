@@ -1,2 +1,1 @@
-I am creating AKAlauncher
-I am personel from AKA office
+is code from MEMZ
